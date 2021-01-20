@@ -1,0 +1,2 @@
+# NetherCraft
+My MC server
